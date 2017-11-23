@@ -19,7 +19,8 @@ Steps:
     export PS1="\[\033[01;37m\]\u@\h:\[\033[01;33m\]\w\[\033[32m\]\$(parse_git_branch)\[\033[00m\]\[\033[01;37m\]\$"
     ```
 
-6. Save the file and restart bash again, voila..... Open your git folder to see the change.
+6. Save the file and restart bash again, voila..... Open your git folder to see the change
+7. Revert the permissions given to '.bashrc' file by typing 'sudo chmod 744 path/.bashrc' to make it read only
 
    If you get stuck anywhere report it in [issues](https://github.com/gaiusmathew/git-branch/issues)
 
