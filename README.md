@@ -7,7 +7,7 @@ Steps:
 
 1. First download 'git-prompt.sh' or copy all contents. https://github.com/gaiusmathew/git-branch/blob/master/git-prompt.sh
 2. Save it to a file and rename it as 'git-prompt.sh' and save it somewhere like '/home'
-3. Open file '.bashrc' in home. (It is hidden, so you have to press 'ctrl+h' to show all files.
+3. Open file '.bashrc' in home. (It is hidden, so you have to press 'ctrl+h' to see it).
 4. Make sure you have  permissions to that file, else give permissions by typing 'sudo chmod 777 path/.bashrc' in terminal
 5. After giving permissions open '.bashrc' file in any editor and add these codes below 
    
