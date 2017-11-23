@@ -1,7 +1,7 @@
 # git-branch
 # Adding git branch on the bash command prompt
 
-# This tutorial shows how to add git branch in bash command prompt:
+This tutorial shows how to add git branch in bash command prompt:
 
 Steps:
 
