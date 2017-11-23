@@ -21,6 +21,8 @@ Steps:
 
 6. Save the file and restart bash again, voila..... Open your git folder to see the change.
 
+   If you get stuck anywhere report it in issues. https://github.com/gaiusmathew/git-branch/issues
+
 
 
 
