@@ -1,5 +1,5 @@
 # git-branch
-# Adding git branch on the Bash command prompt
+# Adding git branch on the bash command prompt
 
 # This tutorial shows how to add git branch in bash command prompt:
 
@@ -21,7 +21,7 @@ Steps:
 
 6. Save the file and restart bash again, voila..... Open your git folder to see the change.
 
-   If you get stuck anywhere report it in issues. https://github.com/gaiusmathew/git-branch/issues
+   If you get stuck anywhere report it in [issues](https://github.com/gaiusmathew/git-branch/issues)
 
 
 
