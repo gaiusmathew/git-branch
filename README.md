@@ -5,11 +5,11 @@ This tutorial shows how to add git branch in bash command prompt:
 
 Steps:
 
-1. First download 'git-prompt.sh' or copy all contents. https://github.com/gaiusmathew/git-branch/blob/master/git-prompt.sh
-2. Save it to a file and rename it as 'git-prompt.sh' and save it somewhere like '/home'
+1. First download  'git-prompt.sh'  or copy all contents. https://github.com/gaiusmathew/git-branch/blob/master/git-prompt.sh
+2. Save it to a file and rename it as  'git-prompt.sh'  and save it somewhere like  '/home'
 3. Open file '.bashrc' in home. (It is hidden, so you have to press 'ctrl+h' to see it).
-4. Make sure you have  permissions to that file, else give permissions by typing 'sudo chmod 777 path/.bashrc' in terminal
-5. After giving permissions open '.bashrc' file in any editor and add these codes below 
+4. Make sure you have  permissions to that file, else give permissions by typing  'sudo chmod 777 path/.bashrc'  in terminal
+5. After giving permissions open  '.bashrc'  file in any editor and add these codes below 
    
    ```
     source /home/gaius/.git-prompt.sh
@@ -20,9 +20,9 @@ Steps:
     ```
 
 6. Save the file and restart bash again, voila..... Open your git folder to see the change
-7. Revert the permissions given to '.bashrc' file by typing 'sudo chmod 744 path/.bashrc' to make it read only
+7. Revert the permissions given to  '.bashrc'  file by typing  'sudo chmod 744 path/.bashrc'  to make it read only
 
-   If you get stuck anywhere report it in [issues](https://github.com/gaiusmathew/git-branch/issues)
+ If you get stuck anywhere report it in [issues](https://github.com/gaiusmathew/git-branch/issues)
 
 
 
