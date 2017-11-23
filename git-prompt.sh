@@ -1,4 +1,5 @@
-#
+# Credits Gaius Mathew
+# www.gaius.in
 # To enable:
 #
 #    1) Copy this file to somewhere (e.g. ~/.git-prompt.sh).
