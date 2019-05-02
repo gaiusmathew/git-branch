@@ -20,7 +20,8 @@ Steps:
     ```
 
    //Usually the 'path' is 'home' by default (ie, '/home/.git-prompt.sh' or 'home/username/.git-prompt.sh')
-6. Save the file and restart bash again, voila..... Open your git folder to see the change
+6. Save the file and restart bash again, voila..... Open your git folder to see the change.
+   <br>
    Here is a preview of the terminal : [show example](https://github.com/gaiusmathew/git-branch/blob/master/example-terminal.png)
 7. Revert the permissions given to  '.bashrc'  file by typing  'sudo chmod 744 path/.bashrc'  to make it read only
 
